@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+
+    </script>
+    <title>Jogo da velha</title>
+</head>
+
+<body>
+    <div id="container">
+        <div id="mostrador">
+            <p>Vez do jogador : </p>
+            <img id="mostrador_img" src="imagens/x.png" height="50">
+        </div>
+
+        <div id="tabuleiro">
+            <div class="espaco" onclick="adicionaJogada('a1')">
+                <img src="" id="a1" height="50">
+            </div>
+            <div class="espaco" onclick="adicionaJogada('a2')">
+                <img src="" id="a2" height="50">
+            </div>
+            <div class="espaco" onclick="adicionaJogada('a3')">
+                <img src="" id="a3" height="50">
+            </div>
+
+
+            <div class="espaco" onclick="adicionaJogada('b1')">
+                <img src="" id="b1" height="50">
+            </div>
+            <div class="espaco" onclick="adicionaJogada('b2')">
+                <img src="" id="b2" height="50">
+            </div>
+            <div class="espaco" onclick="adicionaJogada('b3')">
+                <img src="" id="b3" height="50">
+            </div>
+
+
+            <div class="espaco" onclick="adicionaJogada('c1')">
+                <img src="" id="c1" height="50">
+            </div>
+            <div class="espaco" onclick="adicionaJogada('c2')">
+                <img src="" id="c2" height="50">
+            </div>
+            <div class="espaco" onclick="adicionaJogada('c3')">
+                <img src="" id="c3" height="50">
+            </div>
+        </div>
+    </div>
+
+    <script src="game.js">
+    </script>
+
+</body>
+
+</html>
