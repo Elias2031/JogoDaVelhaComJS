@@ -14,17 +14,20 @@
     margin-right: 10px;
 }
 
-.espaco{
-    height: 60px;
-    width: 80px;
-    border: 2px solid #000;
+#reset{
+    background-color: rgb(77, 202, 202);
+    height: 40px;
+    width: 100px;
+    margin: auto;
+    padding: 10px;
     float: left;
-    text-align: center;
-    padding-top: 20px;
-    border-radius: 3px;
+    border-radius: 5px;
+    box-shadow: 1px 1px rgb(139, 137, 137);
+    margin: 20px 30%;
+    display: none;
 }
 
-.espacoA{
+.espaco{
     height: 60px;
     width: 80px;
     border: 2px solid #000;

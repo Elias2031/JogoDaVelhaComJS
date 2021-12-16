@@ -77,9 +77,15 @@ async function checaVencedor(){
         await sleep(50)
         alert(`${vencedor} venceu`)
         gameOver = true
+        MostraBotão()
     }
 
     function sleep(ms){
         return new Promise(resolve => (setTimeout(resolve, ms)))
     }
 }
+
+    function MostraBotão(){
+        document.getElementById('reset').style.display = 'block'
+        
+    }
