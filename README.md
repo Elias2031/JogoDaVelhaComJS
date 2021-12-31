@@ -11,3 +11,5 @@ HTML | CSS | JAVASCRIPT
 - A aplicação deve conter dois modos de jogo individual/ 2players
 
 - A aplicação deve conter dois temas Light/Dark que serão selecionados de acordo com a preferencia do jogador 
+
+<img src="imagens/jogo_da_velha.png">
