@@ -12,4 +12,4 @@ HTML | CSS | JAVASCRIPT
 
 - A aplicação deve conter dois temas Light/Dark que serão selecionados de acordo com a preferencia do jogador 
 
-<img src="imagens/jogo_da_velha.png">
+<img src="imagens/jogo_da_ velha.png">
