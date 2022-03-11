@@ -4,7 +4,7 @@ Data inicial :12/12/21
 HTML | CSS | JAVASCRIPT
 
 
-### Em desenvolvimento
+### Finalizado
 
 - O intuito do projeto é desenvolver um jogo da velha com javascript puro
 
